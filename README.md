@@ -21,12 +21,10 @@ pinto0309/whisper-onnxruntime-web-builder:latest
 ```bash
 cd js/ort-whisper/Olive/examples/whisper
 
-################################### selective
 # English only
 python prepare_whisper_configs.py \
 --model_name openai/whisper-tiny.en \
 --no_audio_decoder
-################################### selective
 
 olive run \
 --config whisper_cpu_int8.json \
