@@ -25,7 +25,9 @@ cd js/ort-whisper/Olive/examples/whisper
 python prepare_whisper_configs.py \
 --model_name openai/whisper-tiny.en \
 --no_audio_decoder
-
+```
+![image](https://github.com/user-attachments/assets/c81cdc20-d085-4448-b376-a807c825af3c)
+```bash
 olive run \
 --config whisper_cpu_int8.json \
 --setup
