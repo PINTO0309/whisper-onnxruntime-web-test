@@ -63,3 +63,6 @@ https://github.com/user-attachments/assets/623df3dd-fc8f-4ae2-ad15-318440ec47fa
 2. https://github.com/PINTO0309/onnxruntime-inference-examples
 3. https://github.com/microsoft/onnxruntime-inference-examples/issues/374
 4. https://github.com/microsoft/Olive/tree/main/examples/whisper
+
+## TODO
+- [ ] Multilingual
