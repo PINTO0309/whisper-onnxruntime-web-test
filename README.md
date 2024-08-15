@@ -58,6 +58,7 @@ npx light-server -s . -p 8888
 
 Start a browser on the host PC and access `http://localhost:8888` to display the speech recognition demo screen.
 
+https://github.com/user-attachments/assets/e3ad40b9-1e50-4442-8781-7839ec13ae3e
 
 ## References
 1. https://github.com/microsoft/onnxruntime-inference-examples/tree/main/js/ort-whisper
